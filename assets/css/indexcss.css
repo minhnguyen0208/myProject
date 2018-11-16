@@ -1,0 +1,25 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.5;    
+}
+
+.row {
+    margin: 20px;
+}
+
+img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+.center-middle {
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+  }
+
+#btnGroupLevel {
+  display: none;
+}
